@@ -1,4 +1,4 @@
-# Página de Receita
+# Local de Turismo
 
 Este repositório contém o projeto "Local de Turismo", desenvolvido como parte do **Curso Fullstack da Rocketseat**.
 
