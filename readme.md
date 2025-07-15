@@ -20,6 +20,8 @@ O projeto "Local de Turismo" é uma aplicação web simples, focada na criação
 
 ## Como Visualizar o Projeto
 
+Para visualizar online visite a página [Local de Turismo](https://felipemasil.github.io/fullstack-nivel01-desafio01/)
+
 Para ver este projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
